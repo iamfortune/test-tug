@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  ICC_URL: https://c629-104-28-211-161.ngrok-free.app
+  ICC_URL: https://547e-2-101-75-5.ngrok-free.app 
   APPLICATION_NAME: test-tug
 
 jobs:
